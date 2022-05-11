@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shakarovich
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning react.js
+- 🌱 I’m currently learning react.js/next.js
 - 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me +998994688362
 
