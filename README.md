@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Goldman
+- 👋 Hi, I’m Komil
 - 👀 I’m interested in programming
 - 🌱 I’m currently working on react.js/next.js or vue.js/nuxt.js
 - 💞️ I’m looking to collaborate on programming
